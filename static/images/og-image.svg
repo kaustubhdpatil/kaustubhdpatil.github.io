@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Kaustubh Patil - Engineering Manager, Platform & Data">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#10202B"/>
+      <stop offset="100%" stop-color="#1B3240"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="110" y="110" width="980" height="410" rx="28" fill="rgba(237,238,231,0.06)" stroke="rgba(237,238,231,0.18)"/>
+  <text x="150" y="245" font-family="Georgia, serif" font-size="48" fill="#B98A3E" letter-spacing="2">ENGINEERING MANAGER</text>
+  <text x="150" y="330" font-family="Georgia, serif" font-size="92" font-weight="500" fill="#EDEEE7">Kaustubh Patil</text>
+  <text x="150" y="400" font-family="Arial, sans-serif" font-size="30" fill="#A9B7B3">Platform &amp; Data - Distributed Systems - Reliability</text>
+  <line x1="150" y1="440" x2="620" y2="440" stroke="#B98A3E" stroke-width="4"/>
+</svg>
